@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1155496771",
+    "hash" : "0",
     "id" : "A996CA06",
-    "lastKnownWriteTime" : 1562186424,
-    "last_content_update" : 1562186424346,
+    "lastKnownWriteTime" : 1562187466,
+    "last_content_update" : 1562187466928,
     "path" : "~/Documents/GitHub/wrb15.github.io/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "9,704",
-        "scrollLine" : "8"
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,
