@@ -3,14 +3,14 @@ output_dir: "."
 navbar:
   title: "Willa R. Brooks"
   left:
-    - text: "Writing"
-      href: research.html
-    - text: "Speaking"
-      href: talks.html
-    - text: "Programming"
+    - text: "About Me"
+      href: about.html
+    - text: "Academic"
+      href: resume.html
+    - text: "Coding"
       href: software.html
-    - text: "Teaching"
-      href: teaching.html
+    - text: "Travel & Hobbies"
+      href: travel.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
