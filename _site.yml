@@ -18,7 +18,7 @@ navbar:
       href: http://github.com/wrb15
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/willarbrooks/
-    - icon: fa-google-scholar fa-lg
+    - icon: ai-google-scholar-square ai-lg
       href: https://www.researchgate.net/profile/Willa_Brooks
 output:
   html_document:
