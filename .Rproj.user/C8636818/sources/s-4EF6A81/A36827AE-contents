@@ -6,7 +6,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "Academic"
-      href: resume.html
+      href: files/Brooks_W_Resume_July2019.pdf
     - text: "Coding"
       href: software.html
     - text: "Travel & Hobbies"
