@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1562185719814.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "4249944910",
     "id" : "A36827AE",
     "lastKnownWriteTime" : 1562515174,
-    "last_content_update" : 1562515174314,
+    "last_content_update" : 1562516247374,
     "path" : "~/Documents/GitHub/wrb15.github.io/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
-        "cursorPosition" : "20,28",
-        "scrollLine" : "7"
+        "cursorPosition" : "20,12",
+        "scrollLine" : "10"
     },
     "relative_order" : 1,
     "source_on_save" : false,
