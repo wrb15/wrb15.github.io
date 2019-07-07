@@ -18,6 +18,8 @@ navbar:
       href: http://github.com/wrb15
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/willarbrooks/
+    - icon: fa-researchgate fa-lg
+      href: https://www.researchgate.net/profile/Willa_Brooks
 output:
   html_document:
     theme: paper
