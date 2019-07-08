@@ -6,7 +6,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "Academic"
-      href: resume.html
+      href: files/Brooks_W_Resume_July2019.pdf
     - text: "Coding"
       href: software.html
     - text: "Travel & Hobbies"
@@ -19,7 +19,7 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/willarbrooks/
     - icon: ai-google-scholar-square ai-lg
-      href: https://www.researchgate.net/profile/Willa_Brooks
+      href: https://scholar.google.com/citations?user=1oMZwv8AAAAJ&hl=en&citsig=AMD79or5fwjTj82XjFL9LY9CN-w5E3VVeQ
 output:
   html_document:
     theme: paper
